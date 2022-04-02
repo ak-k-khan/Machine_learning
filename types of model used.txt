@@ -1,0 +1,16 @@
+model outpouts from different models
+
+1. DECISION TREE MODEL::::
+
+ mean :  4.993532129881233
+ standard deviation :  1.2589335554794345
+
+2. linear regression::::
+
+  mean :  5.080389091132291
+ standard deviation :  1.0766116944471442
+
+3.  random forest regression
+
+  mean :  3.3903390487243463
+ standard deviation :  0.7822334058056487
